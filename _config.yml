@@ -1,0 +1,8 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+permalink: /:title
+disqus-id: anandu
+# put after parsing url
+url: http%3A%2F%2Fanandu.info 
+twitter-username: anandubajith
