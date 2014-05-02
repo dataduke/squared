@@ -13,6 +13,25 @@ To add your own posts, add a file to the _posts directory which has the name yea
 
 To publish the post, just <code>git push</code> it to your own github repo and your set!
 
+###Things to change on `_config.yml`
+There is a config file at the root called `_config.yml`. By Default it looks like:
+
+    name: Squared Theme
+    markdown: redcarpet
+    pygments: true
+    permalink: /:title
+    disqus-id: anandu
+    url: http%3A%2F%2Fanandu.info 
+    twitter-username: anandubajith
+    author: Anandu
+
+You will need to change the `name` and `baseurl` fields. The others are optional.
+The `baseurl` field is used for the css files and pagination, if you are hosting the     blog on github, you will need to change it to your repository name unless your           repository is the same name as your github user name, which means you will need to have  no value for `baseurl`.
+
+For more information on Jekyll, visit their [wiki on github](https://github.com/mojombo/ jekyll/wiki).
+
+For more information on github pages: [http://pages.github.com](http://pages.github.com).
+
 License
 ====================
 The MIT License (MIT)
