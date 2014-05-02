@@ -1,24 +1,45 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "HTML"
 date:   2014-05-01 20:46:47
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+<div class="entry-content">
+		<p>What HTML tags would you like to see?</p>
+<p>Let’s start with an unordered list:</p>
+<ul>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+<li>Four</li>
+</ul>
+<p>And then move on to a more interesting ordered list:</p>
+<ol>
+<li>one, two
+<ol>
+<li>buckle my shoe</li>
+</ol>
+</li>
+<li>three, four
+<ol>
+<li>knock at the door</li>
+</ol>
+</li>
+<li>Five, six
+<ol>
+<li>pick up sticks</li>
+</ol>
+</li>
+<li>Seven, eight, lay them straight
+<ol>
+<li>Nine, ten, a big fat hen</li>
+<li>Eleven, twelve, dig and delve</li>
+<li>Thirteen, fourteen, maids a’courting</li>
+<li>Fifteen, sixteen, maids in the kitchen</li>
+<li>Seventeen, eighteen, maids a’waiting</li>
+<li>Nineteen, twenty, my platter’s empty …</li>
+</ol>
+</li>
+</ol>
+	</div>
