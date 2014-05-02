@@ -24,15 +24,15 @@ There is a config file at the root called `_config.yml`. By Default it looks lik
     twitter-username: anandubajith
     author: Anandu
 
-You will need to change <code>name</code> , <code>url</code> , <code>twitter-username</code> and <code>author</code>. All others are optional, Here is what the variables mean.
+You will need to change <code>name</code> , <code>url</code> , <code>twitter-username</code> and <code>author</code>. All others are optional, Here is what the variables mean.<br>
 
-<code>name</code> - The name of your jekyll site.
-<code>markdown</code> - The preferred markdown to use. 
-<code>permalink</code> - the permalink to use for your posts.
-<code>disqus-id</code> - the disqus id, if not set comments will not be shown.
-<code>url</code> - The parsed URL of your site.
-<code>twitter-username</code> - Your Twitter username , used while sharing.
-<code>author</code> - Your Name!!.
+<code>name</code> - The name of your jekyll site.<br>
+<code>markdown</code> - The preferred markdown to use. <br>
+<code>permalink</code> - the permalink to use for your posts.<br>
+<code>disqus-id</code> - the disqus id, if not set comments will not be shown.<br>
+<code>url</code> - The parsed URL of your site.<br>
+<code>twitter-username</code> - Your Twitter username , used while sharing.<br>
+<code>author</code> - Your Name!!.<br><br>
 
 For more information on Jekyll, visit their [wiki on github](https://github.com/mojombo/jekyll/wiki).
 
