@@ -13,7 +13,8 @@ To add your own posts, add a file to the _posts directory which has the name yea
 
 To publish the post, just <code>git push</code> it to your own github repo and your set!
 
-###Things to change on `_config.yml`
+Things to change on `_config.yml`
+====================
 There is a config file at the root called `_config.yml`. By Default it looks like:
 
     name: Squared Theme
