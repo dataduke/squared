@@ -4,9 +4,8 @@ Squared-Jekyll-theme
 Setting up
 ====================
 To start you own blog, simply git clone the repository on github. You could also press the "fork" button on github.
-<code>
-git clone https://github.com/anandubajith/squared.git
-</code>
+<pre><code>git clone https://github.com/anandubajith/squared.git
+</code></pre>
 Then you will need to edit the _config.yml file at the root of repository.
 
 To add your own posts, add a file to the _posts directory which has the name year-month-day-title.md. 
@@ -37,3 +36,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
